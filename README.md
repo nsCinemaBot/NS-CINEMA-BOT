@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://github.com/LazyDeveloperr/LazyPrincess/blob/master/assets/lazyprincessbot.jpg" alt="Lazy Princess Logo">
+  <img src="https://telegra.ph/file/6d34c01cc7fb6fc5512db.jpg" alt="Lazy Princess Logo">
 </p>
 <h1 align="center">
-  <b> Lazy Princess BOT </b>
+  <b> NS CINEMA BOT </b>
 </h1>
 
 ## ⚡️Features
